@@ -30,7 +30,7 @@ You must define it as a dependency in `pom.xml` and exclude the old version of 
 </dependency>
 ```
 
-If you don't use Maven to manage the dependencies, please be sure to replace `asm.jar` and `asm-commons.jar` with appropriated ASM 5 versions.
+If you don't use Maven to manage the dependencies, please be sure to replace `asm.jar` and `asm-commons.jar` with appropriate ASM 5 versions.
 
 ## Supported Java 8 features
 
